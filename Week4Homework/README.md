@@ -76,6 +76,6 @@ Let's apply Boundary Value Analysis and Decision Tables to test this function:
 | The tax rate is greater than 100 percent                          | — | — | — | N  | N | Y | Y |
 | The discount amount is negative                                   | — | — | — | —  | — | Y | N |
 | The discount amount is non-negative                               | — | — | — | —  | — | N | Y |
-| **Actions:**                                                          |   |   |   |    |   |   |   |
+| **Actions:**                                                      |   |   |   |    |   |   |   |
 | Calculate total price                                             |   |   |   |    |   |   | 1 |
 | Do not calculate total price                                      | 1 | 1 | 1 | 1  | 1 | 1 |   |

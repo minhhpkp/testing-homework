@@ -3,7 +3,7 @@ import static org.junit.Assert.assertThrows;
 
 import org.junit.Test;
 
-public class CalculateTotalPriceBoundaryValueTest {
+public class CalculateTotalPriceTest {
     
     @Test
     public void normInput() {
