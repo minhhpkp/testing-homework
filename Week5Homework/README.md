@@ -91,6 +91,8 @@ _Description:_ This function simulates a vending machine that allows users to pu
 
 **Implementation**: [VendingMachine.java](VendingMachine.java)
 
+**Junit test class**: [VendingMachineTest.java](VendingMachineTest.java)
+
 **Control flow graph:**
 
 ![vendingmachine](vendingmachine.svg)

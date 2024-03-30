@@ -2,6 +2,10 @@
 
 Consider a function from a hypothetical e-commerce website:
 
+**Implementation**: [Ecommerce.java](Ecommerce.java)
+
+**Junit test class**: [CalculateTotalPriceTest.java](CalculateTotalPriceTest.java)
+
 ## Specification
 
 **Function:** CalculateTotalPrice
