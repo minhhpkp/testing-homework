@@ -1,3 +1,5 @@
+package Week4Homework;
+
 /**
  * A hypothetical e-commerce website.
  */
